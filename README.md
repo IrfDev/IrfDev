@@ -4,7 +4,7 @@ I'm a fullstack developer with knowledge in server, frontend and backend. ⚡️
 
 My portfolio is right here 👉🏻 [irving.digital](https://irving.digital)
 
-### Right now: 
+### Right now 🔥: 
 
 I'm learning advanced performance patterns with combos like:
 
