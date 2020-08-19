@@ -1,6 +1,9 @@
 ### Hey, I'm [Irving Suarez](https://irving.digital)! 🤙🏻
 
-I'm a fullstack developer with knowledge in server, frontend and backend. ⚡️ Right now I'm seeking big projects to change the world together 🌏 
+I'm a fullstack developer with knowledge in server, frontend and backend. ⚡️
+<br/>
+
+**Right now I'm seeking big projects to change the world together** 🌏 
 
 My portfolio is right here 👉🏻 [irving.digital](https://irving.digital)
 
