@@ -24,7 +24,7 @@ I'm learning advanced performance patterns with combos like:
 
 Improve my frontend skills: Advanced flux  + cookies patterns for great, predictable and converting UX, SVG animations, and also digging into Design Systems with great technologies like Storybook  <br />
 
-Improve my backend skills: Python + ML frameworks to create great smart sollutions 🧠, Serverless functions ⚡️ and advanced GraphQL knowledge 🚀<br />
+Improve my backend skills: Python + ML frameworks to create great smart sollutions 🧠 (at least 2 functional API'S), Serverless functions ⚡️ and advanced GraphQL knowledge 🚀<br />
 
 Take my server/devops knowledge to the next level: Using Docker + Kubernetes to create reliable and optimize solutions. 
 
