@@ -5,7 +5,11 @@ I'm a fullstack developer with knowledge in server, frontend and backend. ⚡️
 
 **Right now I'm seeking big projects to change the world together** 🌏 
 
-My portfolio is right here 👉🏻 [irving.digital](https://irving.digital)
+My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My personal porfolio")<br/>
+
+👇🏻 And my email down here  <br/>
+<hello@irving.digital>
+
 
 ### Right now 🔥: 
 
