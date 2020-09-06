@@ -4,7 +4,7 @@
 I'm a creative web developer with deep knowledge on frontend, backend and server. I build web apps with modern technologies like React, Vue, Node, GraphQL, NGINX, Docker. My main focus are goal achievement digital products ⚡️
 <br/>
 
-### Technology I like
+### Technologies I like
 I have a really strong passion for SEO, Design systems, serverless technologies as AWS, Firebase, IBM Cloud, modern architectures like microservices with Docker and Jenkins. JAM stack and the flux pattern
 
 My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My personal porfolio")<br/>
@@ -33,7 +33,7 @@ Take my server/devops knowledge to the next level: Using Docker + Kubernetes to 
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/irving-suarez/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/IrfDev/)](https://www.linkedin.com/in/irving-suarez/)  
 
 **Please go to my portfolio to find my relevant projects**
 
