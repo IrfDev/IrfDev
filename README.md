@@ -1,11 +1,8 @@
 ### Hey, I'm [Irving Suarez](https://irving.digital)! 🤙🏻
 
-I'm a web developer with knowledge in server, frontend and backend. ⚡️
 
-I'm a creative web developer with deep knowledge on backend. I build web apps with modern technologies like React, Vue, Node, GraphQL, NGINX, Docker. My main focus are goal achievement digital products.
+I'm a creative web developer with deep knowledge on backend. I build web apps with modern technologies like React, Vue, Node, GraphQL, NGINX, Docker. My main focus are goal achievement digital products ⚡️
 <br/>
-
-**Right now I'm seeking big projects to change the world together** 🌏 
 
 My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My personal porfolio")<br/>
 
