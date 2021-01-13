@@ -1,7 +1,7 @@
 ### Hey, I'm [Irving Suarez](https://irving.digital)! 🤙🏻
 
 
-I'm a creative web developer with deep knowledge on frontend, backend and server. I build web apps with modern technologies like React, Vue, Node, GraphQL, NGINX, Docker. My main focus are goal achievement digital products ⚡️
+I'm a creative web developer with deep knowledge on frontend, backend and server. My main focus are goal achievement digital products from the technical and marketing perspective ⚡️
 <br/>
 
 Currently working on [Staytus](https://staytus.com/)! 💼
