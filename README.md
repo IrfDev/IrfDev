@@ -25,11 +25,11 @@ My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My 
 
 I'm learning Python and Typescript to create more dynamic fullstack application, also I'm learning data visualization.
 
-### What's next? 🤓 (My 2021 won't finish until...)
+### What's next? 🤓 (My 2022 won't finish until...)
 
-- Build at least one ML model with Python 
-- Create at least 2 PWA applications 
-- Use GraphQL in at least 2 projects
+- Build at least one Server on Go/Rust
+- Build a 3d Scene with vanilla JS on the browser
+- Visit at least one Startup in Sillicon Valley :D 
 
 
 ### Find me elsewhere 🌎
