@@ -23,7 +23,7 @@ My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My 
 
 ### Right now 🔥: 
 
-I'm learning Python and Typescript to create more dynamic fullstack application, also I'm learning data visualization.
+I'm learning serverless and Cloud technologies so my applications can be more reliables
 
 ### What's next? 🤓 (My 2022 won't finish until...)
 
