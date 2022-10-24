@@ -5,7 +5,7 @@ I'm a creative web developer with deep knowledge on frontend, backend and server
 <br/>
 
 
-My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My personal porfolio")<br/>
+My Linkedin is right here 👉🏻 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/IrfDev/)](https://www.linkedin.com/in/irving-suarez/)  <br/>
 
 👇🏻 And my email down here  <br/>
 <hello@irving.digital>
@@ -30,9 +30,6 @@ I'm learning serverless and Cloud technologies so my applications can be more re
 - Visit at least one Startup in Sillicon Valley :D 
 
 
-### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/IrfDev/)](https://www.linkedin.com/in/irving-suarez/)  
 
 **Please go to my portfolio to find my relevant projects**
 
