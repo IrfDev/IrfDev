@@ -25,9 +25,9 @@ I'm learning serverless and Cloud technologies so my applications can be more re
 
 ### What's next? 🤓 (My 2022 won't finish until...)
 
-- Build at least one Server on Go/Rust
+- ~~Build at least one Server on Go/Rust~~
 - Build a 3d Scene with vanilla JS on the browser
-- Visit at least one Startup in Sillicon Valley :D 
+- ~~Visit at least one Startup in Sillicon Valley :D~~ 
 
 
 
