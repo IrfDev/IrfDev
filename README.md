@@ -4,8 +4,6 @@
 I'm a creative web developer with deep knowledge on frontend, backend and server. My main focus are goal achievement digital products from the technical and marketing perspective ⚡️
 <br/>
 
-Currently working at [Staytus](https://staytus.com/)! 💼
-
 
 My portfolio is right here 👉🏻 [irving.digital](https://irving.digital "My personal porfolio")<br/>
 
