@@ -1,7 +1,7 @@
 ### Hey, I'm [Irving Suarez](https://irving.digital)! 🤙🏻
 
 
-I'm a creative web developer with deep knowledge on frontend, backend and server. My main focus are goal achievement digital products from the technical and marketing perspective ⚡️
+I'm a creative Sofware Engineer with deep knowledge on frontend, backend and server. My main focus are goal achievement digital products from the technical and marketing perspective ⚡️
 <br/>
 
 
